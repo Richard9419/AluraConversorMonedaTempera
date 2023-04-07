@@ -20,3 +20,5 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 Ademas como un plus un conversor de algun tipo, mi caso utilice uno de Temperatura.
 
 Mi nombre es Ricardo Ramirez soy de Costa Rica y soy estudiante de programa ONE.
+
+Este proyecto fue creado con el IDE Netbeans - Java.
